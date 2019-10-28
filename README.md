@@ -1,8 +1,7 @@
 # TestRepo
-Test repo for discussion
-hjgjgk
+Howdy, Fellers.
 
 
-Leo's Edit
+Will's Edit
 ======
-rubber duck debugging
+This is a test by Will Pascuzzi

@@ -14,7 +14,3 @@ jordan's edit
 Carlos' Edit
 ======
 hello
-
-Kevin's Edit
-======
-:)

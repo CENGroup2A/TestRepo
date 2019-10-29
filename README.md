@@ -1,7 +1,5 @@
 # TestRepo
-Test repo for discussion
-hjgjgk
-
+Test repo for discussion hjgjgk
 
 Leo's Edit
 ======
@@ -18,3 +16,8 @@ hello
 Kevin's Edit
 ======
 :)
+
+Will's Edit
+======
+:^)
+

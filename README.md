@@ -1,12 +1,9 @@
 # TestRepo
-Howdy, Fellers.
-
-
-Will's Edit
-======
-<<<<<<< HEAD
-This is a test by Will Pascuzzi
 =======
+Test repo for discussion hjgjgk
+
+Leo's Edit
+======
 rubber duck debugging
 
 Jordan's Edit
@@ -24,4 +21,4 @@ Kevin's Edit
 Will's Edit
 ======
 :^)
->>>>>>> 81e0407d3c3eab17dfa8116c7eeeb32ece61409a
+
